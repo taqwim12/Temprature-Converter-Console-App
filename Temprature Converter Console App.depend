@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614525553 source:d:\[coding] codeblocks projects\temprature converter console app\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+
